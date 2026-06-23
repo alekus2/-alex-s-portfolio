@@ -14,8 +14,6 @@ Sou desenvolvedor focado em criar soluções web e sistemas automatizados, com i
 
 ## Projetos
 - [Nome do Projeto 1](link) — breve descrição do projeto.
-- [Nome do Projeto 2](link) — breve descrição do projeto.
-- [Nome do Projeto 3](link) — breve descrição do projeto.
 
 ## Contato
 - GitHub: [alekus2](https://github.com/alekus2)
